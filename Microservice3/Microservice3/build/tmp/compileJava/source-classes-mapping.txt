@@ -1,0 +1,4 @@
+com/example/Microservice3/MicroService3.java
+ com.example.Microservice3.MicroService3
+com/example/Microservice3/Microservice3Application.java
+ com.example.Microservice3.Microservice3Application
